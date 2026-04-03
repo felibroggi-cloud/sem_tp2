@@ -5,9 +5,9 @@ COMO INSTALAR JUPYTER NOTEBOOK
 2. Una vez instalado, abrir el cmd e ingresar el comando `pip`: Si python fue instalado correctamente, el cmd deberia devolver algo muy similar a:
 ```
 Usage:
-   pip <commando> [options]
+   pip <command> [options]
 
-Commandos:
+Commands:
    install                     Install packages.
    lock                        Generate a lock file.
    (....)
