@@ -17,8 +17,8 @@ Commands:
 
 4. Una vez que ambos comandos finalicen, ingresar el comando `jupyter notebook` lo que deberia abrir en su navegador predeterminado una pestaña con la interfaz de jupyter (vera un listado de carpetas y archivos de su computadora)
 
-5. Una vez instalado lo anterior, descargue tanto las carpetas llamadas 'notebooks' y 'src' y guardelas en un mismo directorio dentro de su PC. 
+5. Una vez instalado lo anterior, en esta pagina (gitub) haga click en el boton verde '<> Code' y luego en 'Descargar Zip', el cuan tendra que descomprimir.
 
-6. Luego, vuelva al jupyter notebook y busque el archivo 'ejercicio (10)' dentro de la carpeta 'notebooks'. Al encontrarlo, hagale click
+6. Luego, vuelva al jupyter notebook y busque el archivo 'ejercicio (10)' dentro de la carpeta 'notebooks' dentro de la carpeta 'sem_tp2', la descargada en el punto anterior. Al encontrarlo, hagale click
 
 7. Para ejecutar la celda de la notebook, solo basta con apretar Ctrl + Enter
