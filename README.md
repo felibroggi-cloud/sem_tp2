@@ -13,12 +13,12 @@ Commands:
    (....)
 ```
 
-3. Una vez verificado que pip efectivamente esta instalado realizado el comando en el punto 2, ingresar el comando  `pip install notebook`
+3. Una vez verificado que pip efectivamente esta instalado (realizado el comando en el punto 2), ingresar el comando  `pip install notebook`
 
-4. Una vez que ambos comandos finalicen, ingresar el comando `jupyter notebook` lo que deberia abrir en su navegador predeterminado una pestaña con la interfaz de jupyter (vera un listado de carpetas y archivos de su computadora)
+4. Una vez que el comando finalice, ingrese el comando `jupyter notebook` lo que deberia abrir en su navegador predeterminado una pestaña con la interfaz de jupyter (vera un listado de carpetas y archivos de su computadora)
 
-5. Una vez instalado lo anterior, en esta pagina (gitub) haga click en el boton verde '<> Code' y luego en 'Descargar Zip', el cuan tendra que descomprimir.
+5. Una vez instalado lo anterior, en esta pagina (GitHub) haga click en el boton verde '<> Code' y luego en 'Descargar Zip', el cuan tendra que descomprimir.
 
-6. Luego, vuelva al jupyter notebook y busque el archivo 'ejercicio (10)' dentro de la carpeta 'notebooks' dentro de la carpeta 'sem_tp2', la descargada en el punto anterior. Al encontrarlo, hagale click
+6. Luego, vuelva al jupyter notebook y busque el archivo 'ejercicio (10)' dentro de la carpeta 'notebooks' dentro de la carpeta 'sem_tp2' (la descargada en el punto anterior). Al encontrarlo, hagale click
 
 7. Para ejecutar la celda de la notebook, solo basta con apretar Ctrl + Enter
